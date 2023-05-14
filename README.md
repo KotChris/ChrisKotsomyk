@@ -1,2 +1,2 @@
 # ChrisKotsomyk
-Laboratoria tea (kotchris.github.io/ChrisKotsomyk/)
+Laboratoria tea (Переглянути](https://kotchris.github.io/ChrisKotsomyk/))
